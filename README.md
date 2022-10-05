@@ -5,8 +5,8 @@
 ## Results:
 By looking at the data and the story visualization of City bike service in New York it seems like it's quite popular in the city and specifically in Manhatten which is always full of tourists and a highly populated area. Here is the link of story visualization of New Yorks's City bike data.
  
- https://public.tableau.com/app/profile/ambreen.rafique/viz/CityBike_16649909289340/CityBike?publish=yes
  
+ https://public.tableau.com/app/profile/ambreen.rafique/viz/CityBike1_16649956668630/CityBike?publish=yes
 
 
   when we look at the chart showing the peak hours in August it is quite obvious that it is highly in demand in business hours specially 8 in the mornings and 5 in       evenings of weekdays. 
