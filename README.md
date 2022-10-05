@@ -20,7 +20,10 @@ By looking at the data and the story visualization of City bike service in New Y
    
    big circle shows the greater utilization.
    
-   Bike Repair:
+  
+  
+  
+  Bike Repair:
    
    
    
@@ -29,11 +32,18 @@ By looking at the data and the story visualization of City bike service in New Y
 
    Darker is more used and needs service accordingly.
 
-   By knowing the fact that this analysis applies specifically to New York City and Des Moines must be quite different!
+   consider the analysis by knowing the fact that this analysis applies specifically to New York City and Des Moines must be quite different!
 
 
 ## Summary:
 bike sharing business is quite famous in populated and rush areas of New York.
-it has more de,and in office hours of weekdays.
+it has more demand in office hours of weekdays.
 it is more popular in men compair to women.
+it is most reqired in highly populated areas.
+Suggestion:
+For future anlysis it would be great if we compair the bike utalization with population of the city and the gender breakdown of populaton.
 
+By providing the data of Des Moines including
+city population
+most populated areas of the city
+Gender breakdown of the city will make the analysis more effective.
